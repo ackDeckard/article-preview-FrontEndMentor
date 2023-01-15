@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./globals.css";
 import Image from "next/image";
-import Spacer from "./components/spacer";
+import Spacer from "./components/Spacer";
 import UserFooter from "./components/UserFooter";
 import MobileBar from "./components/MobileBar";
 import DesktopBar from "./components/DesktopBar";
